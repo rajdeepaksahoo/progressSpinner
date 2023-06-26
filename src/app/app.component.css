@@ -1,0 +1,11 @@
+mat-progress-spinner{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    z-index: 5;
+}
+.blur {
+    filter: blur(2px); /* Adjust the blur intensity as needed */
+  }
+  
